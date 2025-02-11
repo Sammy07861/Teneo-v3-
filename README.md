@@ -28,7 +28,7 @@ Teneo Community Node BOT
    https://github.com/Sammy07861/Teneo-v3-
    ```
    ```bash
-   cd Teneo-v2
+   cd Teneo-v3 
    ```
 
 2. **Install Requirements:**
