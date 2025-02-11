@@ -3,7 +3,7 @@ Teneo Community Node BOT
 
 - Register Here : [Teneo Community Node Dashboard](https://dashboard.teneo.pro/auth/signup)
 - Download Extension Here : [Teneo Community Node Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
-- Use Code : fGgJ4
+- Use Code : rkvaE
 
 ## Features
 
