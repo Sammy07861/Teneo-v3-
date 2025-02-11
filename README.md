@@ -25,7 +25,7 @@ Teneo Community Node BOT
 
 1. **Clone The Repositories:**
    ```bash
-   
+   https://github.com/Sammy07861/Teneo-v3-
    ```
    ```bash
    cd Teneo-v2
